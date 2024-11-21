@@ -1,2 +1,1 @@
-# PrepCourseHenryFULLSTACK
-Repositorio de prueba del modulo 2 del Prep Course de Henry
+Este proyecto es una prueba como crear un repositorio y clonarlo dese GitHub a mi computadora
